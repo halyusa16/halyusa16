@@ -10,11 +10,11 @@ Let's connect with me on **[LinkedIn](https://www.linkedin.com/in/halyusaard)**
 ---
 ### 🚀 My Projects
 
-| Project Name | Technologies Used | Description | Repository Link |
+| Project Name | Technologies Used | Description | Link |
 | :--- | :--- | :--- | :--- |
 | **BigQuery Warehouse** | Python, BigQuery, dbt, SQL | Simulating an ETL with Medallion Architecture and Star Schema on BigQuery | [Repo](https://github.com/halyusa16/dbt-retail-data) |
-| **Employee Insights** | SQL (MySQL) | Exploring Employees Data | [Repo](https://github.com/halyusa16/sql-employee-insights) |
 | **Diabetes Prediction** | Python (Scikit-learn, Pandas) | Comparing ML Algorithms to Predict Diabetes Categories | [Repo](https://github.com/halyusa16/diabetes-prediction-machine-learning) |
+| **Employee Insights** | SQL (MySQL) | Exploring Employees Data | [Repo](https://github.com/halyusa16/sql-employee-insights) |
 | **E-Commerce Analysis** | Python (Pandas, Matplotlib) | Exploring Public E-Commerce Dataset to identify trends, popular products, and customer behavior patterns. | [Repo](https://github.com/halyusa16/e-commerce-analysis) |
 | **Customer Churn Analysis** | Excel (Formulas, Pivot Tables, Visualization) | Identifying customer churn patterns, root causes, and segment high-risk customers. | [Repo](https://github.com/halyusa16/excel-analyzing-customer-churn) |
 
