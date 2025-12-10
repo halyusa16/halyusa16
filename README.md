@@ -13,8 +13,9 @@ Let's connect with me on **[LinkedIn](https://www.linkedin.com/in/halyusaard)**
 | Project Name | Technologies Used | Description | Link |
 | :--- | :--- | :--- | :--- |
 | **BQ Warehouse** | Python, BigQuery, dbt, SQL | Simulating an ETL with Medallion Architecture and Star Schema on BigQuery | [Repo](https://github.com/halyusa16/dbt-retail-data) |
+| **Foreign Currency Extraction** | Python (requests) | Extracting Foreign Currency Public API, Python ETL Pipeline | [Repo](https://github.com/halyusa16/currency-api-pipeline) |
 | **Diabetes Prediction** | Python (Scikit-learn, Pandas) | Comparing ML Algorithms to Predict Diabetes Categories | [Repo](https://github.com/halyusa16/diabetes-prediction-machine-learning) |
-| **Space People API** | Python (requests) | Demonstrates API integration fundamentals in Python | [Repo](https://github.com/halyusa16/fetch-space-people-api) |
+| **Space People API** | Python (requests) | Demonstrating API integration fundamentals in Python | [Repo](https://github.com/halyusa16/fetch-space-people-api) |
 | **Employee Insights** | SQL (MySQL) | Exploring Employees Data | [Repo](https://github.com/halyusa16/sql-employee-insights) |
 | **E-Commerce Analysis** | Python (Pandas, Matplotlib) | Exploring Public E-Commerce Dataset to identify trends, popular products, and customer behavior patterns. | [Repo](https://github.com/halyusa16/e-commerce-analysis) |
 | **BQ Usage Monitoring** | Tableau | Visualizing BQ Usage Cost for Team Awareness | [Repo](https://github.com/halyusa16/bigquery-usage-monitor) |
